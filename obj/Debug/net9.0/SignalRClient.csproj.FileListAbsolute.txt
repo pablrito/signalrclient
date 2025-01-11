@@ -29,3 +29,4 @@ C:\devslask\2025\johan\SignalRClient\obj\Debug\net9.0\refint\SignalRClient.dll
 C:\devslask\2025\johan\SignalRClient\obj\Debug\net9.0\SignalRClient.pdb
 C:\devslask\2025\johan\SignalRClient\obj\Debug\net9.0\SignalRClient.genruntimeconfig.cache
 C:\devslask\2025\johan\SignalRClient\obj\Debug\net9.0\ref\SignalRClient.dll
+C:\devslask\2025\johan\SignalRClient\obj\Debug\net9.0\SignalRClient.sourcelink.json
